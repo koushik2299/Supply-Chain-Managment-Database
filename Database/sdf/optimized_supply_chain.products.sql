@@ -19,7 +19,7 @@ insert into optimized_supply_chain.products (product_id, product_name, actual_pr
 insert into optimized_supply_chain.products (product_id, product_name, actual_price, selling_price, expiry_date) values (19, 'Glass Clear 7 Oz Xl', 46.5, 179.6, '2023-03-07 05:14:10');
 insert into optimized_supply_chain.products (product_id, product_name, actual_price, selling_price, expiry_date) values (20, 'Wine - Puligny Montrachet A.', 70.3, 162.6, '2023-02-25 17:00:17');
 insert into optimized_supply_chain.products (product_id, product_name, actual_price, selling_price, expiry_date) values (21, 'Onions - Cippolini', 47.6, 164.9, '2022-06-26 21:16:59');
-insert into optimized_supply_chain.products (product_id, product_name, actual_price, selling_price, expiry_date) values (22, 'Octopus - Baby, Cleaned', 43.7, 184.0, '2022-10-18 01:32:25');
+insert into optimized_supply_chain.products (product_id, product_name, actual_price, selling_price, expiry_date) values (22, 'Octopus - Baby Cleaned', 43.7, 184.0, '2022-10-18 01:32:25');
 insert into optimized_supply_chain.products (product_id, product_name, actual_price, selling_price, expiry_date) values (23, 'Bread - Focaccia Quarter', 97.3, 176.8, '2022-11-12 18:12:39');
 insert into optimized_supply_chain.products (product_id, product_name, actual_price, selling_price, expiry_date) values (24, 'Straws - Cocktale', 38.1, 143.8, '2022-11-27 21:00:00');
 insert into optimized_supply_chain.products (product_id, product_name, actual_price, selling_price, expiry_date) values (25, 'Anchovy Paste - 56 G Tube', 45.1, 112.1, '2022-07-30 19:43:49');
